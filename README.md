@@ -1,0 +1,2 @@
+# PCAndroidConnetDemo_android
+Pc电脑与手机数据线方式进行数据传输的安卓端demo
